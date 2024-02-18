@@ -1,8 +1,8 @@
 {
-  "wordpress_url": "{{wordpress_url}}",
-  "user_id": "{{user_id}}",
-  "user_app_password": "{{user_app_password}}",
-  "OPENAI_API_TOKEN": "{{OPENAI_API_TOKEN}}",
+  "wordpress_url": "https://sustainablegardeners.com",
+  "user_id": "sustainablegardeners.com",
+  "user_app_password": "oxHa mhpR lrNJ ZjGR feRc YD8m",
+  "OPENAI_API_TOKEN": "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",
   "FREEIMAGE_HOST_API_KEY": "{{FREEIMAGE_HOST_API_KEY}}",
   "PERPLEXITY_API_KEY": "{{PERPLEXITY_API_KEY}}",
   "business_name": "{{business_name}}",
@@ -11,7 +11,7 @@
   "path_to_image_file": "{{path_to_image_file}}",
   "path_to_example_file": "{{path_to_example_file}}",
   "path_to_plan_csv": "{{path_to_plan_csv}}",
-  "language": "{{language}}",
+  "language": "english",
   "country": "{{country}}",
   "tone": "{{tone}}",
   "sitemap": "{{sitemap}}"
